@@ -8,7 +8,7 @@ $(document).ready(function () {
  */
 let App = (function () {
 
-    let _hora
+    let _hora;
       
     let contador = function () {
       if ($('.muestra-hora').length) {
